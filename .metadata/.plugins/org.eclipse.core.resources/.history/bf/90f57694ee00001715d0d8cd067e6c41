@@ -1,0 +1,11 @@
+package math.uni.lodz.java;
+
+public class BaseConstructor {
+	public BaseConstructor() {
+		System.out.println("Block B-1");
+	}
+	static{
+		System.out.println("Block B-2");
+	}
+	
+}

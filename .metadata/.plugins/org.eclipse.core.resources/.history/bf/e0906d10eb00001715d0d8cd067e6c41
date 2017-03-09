@@ -1,0 +1,13 @@
+package math.uni.lodz.java;
+
+import javax.lang.model.element.VariableElement;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TeachingConstructor tc = new TeachingConstructor();
+		
+	}
+
+}

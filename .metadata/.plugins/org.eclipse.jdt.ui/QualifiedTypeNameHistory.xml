@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.lang.model.element.VariableElement"/>
+<fullyQualifiedTypeName name="math.uni.lodz.java.TeachingConstructor"/>
+<fullyQualifiedTypeName name="math.uni.lodz.java.GlobalConstructor"/>
+<fullyQualifiedTypeName name="math.uni.lodz.java.BaseConstructor"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="math.uni.lodz.java.OtherConstructor"/>
+</qualifiedTypeNameHistroy>

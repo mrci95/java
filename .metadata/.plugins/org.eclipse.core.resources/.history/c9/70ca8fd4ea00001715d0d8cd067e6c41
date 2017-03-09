@@ -1,0 +1,7 @@
+package math.uni.lodz.java;
+
+public class TeachingConstructor {
+	public TeachingConstructor() {
+		// TODO Auto-generated constructor stub
+	}
+}

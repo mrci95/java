@@ -1,0 +1,11 @@
+package math.uni.lodz.java;
+
+public class TeachingConstructor {
+	public TeachingConstructor() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public TeachingConstructor(int x){
+		System.out.println("Block A");
+	}
+}
